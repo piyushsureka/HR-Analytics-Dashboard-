@@ -7,3 +7,6 @@ HR analytics is a crucial aspect of human resource management that involves the 
 Objective:
 
 An HR Dashboard on Excel is a visual representation of key HR metrics and data. It is used to track the performance of HR functions and provide insights into trends and patterns. The dashboard is created by gathering HR data, cleaning and organizing it, creating charts and pivot tables, customizing the visual appearance, and regularly updating it with fresh data. With an HR Dashboard on Excel, HR professionals can make informed decisions and evaluate the effectiveness of their strategies.
+
+![image](https://github.com/piyushsureka/HR-Analytics-Dashboard-/assets/30704103/424bd5e2-266c-4e8d-bc76-b08cf3932524)
+
